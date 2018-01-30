@@ -1,0 +1,6 @@
+plugin:
+    name: 'socklab.cmsextend::lang.plugin.name'
+    description: 'socklab.cmsextend::lang.plugin.description'
+    author: SockLab
+    icon: oc-icon-adjust
+    homepage: 'https://github.com/tookit/cmsextend'
